@@ -1,0 +1,1 @@
+This project consists in a rock-paper-scissors game through the browser console using JavaScript.
